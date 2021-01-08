@@ -1,2 +1,2 @@
 # ML_repo
-contains my projects on Machine Learning 
+Contains my projects and relevant material on Machine Learning.
